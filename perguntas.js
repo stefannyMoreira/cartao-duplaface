@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Portugues',
-    '?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que sao verbos irregulares?',
+    'Apresentam alteracoes no radical'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
+    'Ciencias',
+    '?',
     'Oi em ingles é HI (RAI)'
 )
