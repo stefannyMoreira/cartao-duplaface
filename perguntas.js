@@ -6,13 +6,13 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que e BRICS',
+    'Grupos de paises emergentes,formado por Brasil,Russia,India,China, e Africa do Sul'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Portugues',
+    '?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
