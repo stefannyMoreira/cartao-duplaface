@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Ciencias',
-    '?',
-    'Oi em ingles é HI (RAI)'
+    'O que e fotossintese?',
+    'Plantas transformam luz solar em energia'
 )
